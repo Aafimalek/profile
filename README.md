@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awwwwfi
 - 👀 I’m interested in coding....
-- 🌱 I’m currently learning C++ and DSA
+- 🌱 I’m currently learning Java and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can email me @aafimalek2032@gmail.com.
 
