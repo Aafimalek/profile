@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Awwwwfi
+- 👋 Hi, I’m @Aafi
 - 👀 I’m interested in coding....
 - 🌱 I’m currently learning Java and PHP
 - 📫 You can email me @aafimalek2032@gmail.com.
