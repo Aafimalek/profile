@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aafi
 - 👀 I’m interested in coding....
-- 🌱 I’m currently learning Java and PHP
+- 🌱 I’m currently learning DSA,Artificial Intelligence (AI), Python (Programming Language), Machine Learning
 - 📫 You can email me @aafimalek2032@gmail.com.
 - ![giphy](https://user-images.githubusercontent.com/91587101/200634728-ce9183d9-f4e3-4e52-95f4-6aa29a65c77f.gif)
 
