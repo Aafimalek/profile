@@ -26,5 +26,5 @@
 
 ---
 ![snake gif](https://github.com/Aafimalek/Aafimalek/blob/output/github-contribution-grid-snake.gif)
-
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
