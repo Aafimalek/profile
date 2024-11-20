@@ -24,4 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aafimalek&icon=3&color=13)](https://visitcount.itsvg.in)
 
+---
+https://github.com/Aafimalek/Aafimalek/blob/output/github-contribution-grid-snake.gif
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
