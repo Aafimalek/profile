@@ -25,6 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=Aafimalek&icon=3&color=13)](https://visitcount.itsvg.in)
 
 ---
-![snake gif](https://github.com/Aafimalek/Aafimalek/blob/output/github-contribution-grid-snake.gif)
+<img alt="github contribution grid snake animation" src="https://github.com/Aafimalek/Aafimalek/blob/output/github-contribution-grid-snake-dark.svg">
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
