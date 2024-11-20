@@ -1,7 +1,3 @@
-Based on your GitHub profile at [Aafimalek](https://github.com/Aafimalek), here's a customized and visually appealing README template for your profile:
-
----
-
 # 👋 Hi, I'm Aafimalek!
 
 Welcome to my GitHub profile! I'm a **Machine Learning and Artificial Intelligence Enthusiast** exploring innovative projects that merge AI with real-world applications. As a pre-final year undergraduate, I actively develop, deploy, and share projects, building a robust portfolio for my journey as a future ML engineer. 🌟
