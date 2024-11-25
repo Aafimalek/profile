@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h1>Hello there 👋 I'm Aafikhan Malek</h1>
 A pre-final year machine learning undergraduate exploring the intersections of AI, automation, and software development. My GitHub repositories reflect a mix of hands-on projects, learning experiments, and tools designed to solve real-world problems.<br><br>🔑 What I Do:<br>Machine Learning & AI: Building models for predictions, classifications, and decision-making systems.<br>Software Development: Designing end-to-end applications with a focus on usability and performance.<br>Open Source Contributions: Sharing code and collaborating on projects to foster a learning community.<br><br>🚀 My Vision:<br>To create impactful tools and applications that solve real problems, making advanced technologies accessible and useful.<br><br>📫 How to Reach Me:<br>-GitHub: Aafimalek<br>-LinkedIn: linkedin.com/in/aafi-malek<br>-Twitter: x.com/aafimalek2032<br>-Email: aafimalek2023@gmail.com<br>
 
